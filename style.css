@@ -1,0 +1,87 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+
+    background: #270202;
+}
+
+hello{
+    position: absolute;
+    width: 343px;
+    height: 139px;
+    left: 126px;
+    top: 264px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 88.5%;
+
+    letter-spacing: -0.01em;
+
+    color: #FFFFFF;
+    position: absolute;
+
+
+}
+
+name{
+
+    position: absolute;
+    width: 343px;
+    height: 139px;
+    left: 126px;
+    top: 350px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 88.5%;
+
+    letter-spacing: -0.01em;
+    background: linear-gradient(93.15deg, #EFC54D 2.02%, #DA393B 31.34%, #3135C4 57.64%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+home{
+    position: absolute;
+    width: 44px;
+    height: 13px;
+    left: 125px;
+    top: 91px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 88.5%;
+    /* or 13px */
+
+    letter-spacing: -0.01em;
+
+    color: #FFFFFF;
+}
+
+photo{
+    position: absolute;
+width: 44px;
+height: 13px;
+left: 196px;
+top: 92px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 88.5%;
+/* or 13px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+}
